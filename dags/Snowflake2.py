@@ -67,7 +67,7 @@ def python_1_func():
      
         # Nombre de la tabla origen y destino
         source_table = "TABLA_PRUEBA"
-        target_table = "TABLA_JOSELIN"
+        target_table = "TABLA_JOSELIN2"
      
         # Obtener los datos de la tabla origen
         source_sql = f"SELECT * FROM {database_source}.{schema_source}.{source_table}"
